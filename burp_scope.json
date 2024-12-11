@@ -1,0 +1,108 @@
+{
+    "target": {
+        "scope": {
+            "advanced_mode": true,
+            "include": [
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeed\\.com$",
+                    "protocol": "http",
+                    "port": "^80$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeed\\.com$",
+                    "protocol": "https",
+                    "port": "^443$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeedflex\\.com$",
+                    "protocol": "http",
+                    "port": "^80$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeedflex\\.com$",
+                    "protocol": "https",
+                    "port": "^443$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^apis\\.indeed\\.com/graphql$",
+                    "protocol": "http",
+                    "port": "^80$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^apis\\.indeed\\.com/graphql$",
+                    "protocol": "https",
+                    "port": "^443$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeed\\.tech$",
+                    "protocol": "http",
+                    "port": "^80$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeed\\.tech$",
+                    "protocol": "https",
+                    "port": "^443$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeed\\.net$",
+                    "protocol": "http",
+                    "port": "^80$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^.*\\.indeed\\.net$",
+                    "protocol": "https",
+                    "port": "^443$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^resume\\.com$",
+                    "protocol": "http",
+                    "port": "^80$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^resume\\.com$",
+                    "protocol": "https",
+                    "port": "^443$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^wowjobs\\.ca$",
+                    "protocol": "http",
+                    "port": "^80$"
+                },
+                {
+                    "enabled": true,
+                    "file": "^/.*",
+                    "host": "^wowjobs\\.ca$",
+                    "protocol": "https",
+                    "port": "^443$"
+                }
+            ],
+            "exclude": []
+        }
+    }
+}
